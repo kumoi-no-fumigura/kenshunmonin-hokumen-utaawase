@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kenshunmonin-hokumen-utaawase",
  "yomi": "けんしゅんもんいんほくめんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "嘉応2年（1170）10月16日",
+  "author": "判者 藤原俊成",
+  "desc": "建春門院の北面で催された歌合。関路落葉などの題で、公通・実定・重家・隆季・頼政らが作者を隠して詠み、俊成が判をした。"
+ },
  "editions": [
   {
    "pid": "1879502",
